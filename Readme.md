@@ -2,9 +2,11 @@
 <!-- <h3 align="center">A passionate Frontend Developer from India</h3> -->
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1600/0*C-cPP9D2MIyeexAT.gif">
 
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=afaaqahxmed&label=Profile%20views&color=0e75b6&style=flat](https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif)" alt="afaaqahxmed" /> </p>
 
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afaaqahxmed&label=Profile%20views&color=0e75b6&style=flat" alt="afaaqahxmed" /> </p>
-
+-->
 - 🌍 I’m Based in **India**
 
 - 🌱 I’m currently learning **MERN Stack**
