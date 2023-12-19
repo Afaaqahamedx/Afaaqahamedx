@@ -26,8 +26,22 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/afaaqahamed jamadar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afaaqahamed jamadar" height="30" width="40" /></a>
-<a href="https://instagram.com/ahxmedxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahxmedxx" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/afaaqahamed jamadar" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="afaaqahamed jamadar"
+      height="30"
+      width="40"
+  /></a>
+  <a href="https://instagram.com/ahxmedxx" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="ahxmedxx"
+      height="30"
+      width="40"
+  /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -158,7 +172,18 @@
   </a>
 </p>
 
+<p>
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=afaaqahamedx&show_icons=true&theme=dark&locale=en&layout=compact"
+    alt="afaaqahamedx"
+  />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afaaqahxmed&show_icons=true&theme=dark&locale=en&layout=compact" alt="afaaqahamedx" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afaaqahxmed&show_icons=true&theme=dark&locale=en" alt="afaaqahamedx" /></p>
+<p>
+  &nbsp;<img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=afaaqahamedx&show_icons=true&theme=dark&locale=en"
+    alt="afaaqahamedx"
+  />
+</p>
