@@ -3,8 +3,12 @@
 <!-- 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1600/0*C-cPP9D2MIyeexAT.gif">
 -->
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:750/format:webp/1*IRGHmiGsa16stedQvIaZfw.gif">
+ 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
+<!-- 
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:750/format:webp/1*IRGHmiGsa16stedQvIaZfw.gif">
+-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afaaqahxmed&label=Profile%20views&color=0e75b6&style=flat" alt="afaaqahxmed" /> </p>
 
 - 🌍 I’m Based in **India**
