@@ -19,7 +19,7 @@
 
 - 📫 Reach me  at **afaaqjamadar@gmail.com**
 
-- 📄 Know about my experiences: [Click Me](https://drive.google.com/file/d/1K2kjvtoW1ld9Tvnh5RAYqygBMs7qkwT1/view?usp=sharing)
+<!-- - 📄 Know about my experiences: [Click Me](https://drive.google.com/file/d/1K2kjvtoW1ld9Tvnh5RAYqygBMs7qkwT1/view?usp=sharing) -->
 
 > 👨‍💻 **Diving into the frontend universe because apparently, making pixels look pretty is my idea of a good time! 💻✨**
 
