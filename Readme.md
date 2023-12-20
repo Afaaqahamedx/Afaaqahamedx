@@ -20,7 +20,6 @@
 
 - 📫 Reach me  at **afaaqjamadar@gmail.com**
 
-
 > 👨‍💻 **Diving into the frontend universe because apparently, making pixels look pretty is my idea of a good time! 💻✨**
 
 <h3 align="left">Connect with me:</h3>
