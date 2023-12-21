@@ -14,6 +14,8 @@
 
 - 🌍 I’m Based in **India**
 
+- 🖥️  See my portfolio at [Afaaqahamed Jamadar](https://afaaqahamed-jamadar.vercel.app/)
+
 - 🌱 I’m currently learning **MERN Stack**
 
 - 🤝 I'm open to collaborating on **Web Development Projects**
