@@ -42,6 +42,14 @@
       height="30"
       width="40"
   /></a>
+  <a href="https://afaaqahamed-jamadar.vercel.app/" target="blank"
+    ><img
+      align="center"
+      src="https://static.vecteezy.com/system/resources/previews/014/234/373/original/coding-web-development-free-vector.jpg"
+      alt="ahxmedxx"
+      height="30"
+      width="40"
+  /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -171,7 +179,7 @@
     />
   </a>
 </p>
-
+<!-- 
 <p>
   <img
     align="left"
@@ -179,7 +187,8 @@
     alt="afaaqahamedx"
   />
 </p>
-
+-->
+<!--
 <p>
   &nbsp;<img
     align="center"
@@ -187,3 +196,4 @@
     alt="afaaqahamedx"
   />
 </p>
+-->
